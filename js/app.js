@@ -78,7 +78,7 @@ $(function(){
     $(".LAST2").on( "click", function() {
         $("#popUp").attr("hidden",false);
     var number = 0 ;
-    res.articles.forEach(element => {
+    res.results.forEach(element => {
       number = number +1 ;
       const ar = document.createElement('article')
       ar.setAttribute("class" ,"arr" )
