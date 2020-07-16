@@ -1,3 +1,7 @@
+### feedr is the second project for general assemply javasrcipt course
+
+
+
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Unit Project #2: Feedr
 
 ### Overview
